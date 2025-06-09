@@ -1,3 +1,5 @@
+This is a simple React app I built as a personal learning project. The application accepts a list of ingredients from the user and generates a recipe. Currently, it doesn't use any external API, so the recipe output remains the same regardless of the input. Future versions may include dynamic generation based on real data.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
